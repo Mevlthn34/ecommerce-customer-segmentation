@@ -55,7 +55,7 @@ Bu segmentasyon sayesinde şirketler:
 
 ---
 
-## 👤 Geliştirici
+## 👤
 
 **Mevlüthan Küçük**  
 Management Information Systems Student  
